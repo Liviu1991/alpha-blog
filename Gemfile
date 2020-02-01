@@ -27,9 +27,9 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 gem 'bcrypt', '~> 3.1.7'
-gem 'bootstrap-will_paginate', '1.0.0'
+gem 'bootstrap-will_paginate'
 gem 'rails-controller-testing'
-gem 'will_paginate', '3.1.5'
+gem 'will_paginate', '3.1.7'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
